@@ -32,6 +32,7 @@ THE SOFTWARE.
 #include <functional>
 #include <iostream>
 #include <array>
+#include <cstdint>
 #include <sstream>
 #include <string_view>
 #include <utility>
